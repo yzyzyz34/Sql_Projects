@@ -11,3 +11,6 @@ Tablaeu:
       
    AirBnb Investor Decision Dashboard:
       https://public.tableau.com/app/profile/yichen.zuo/viz/AirBnbInvestorDecisionDashboard/Dashboard1?publish=yes
+      
+   AirBnb Investor Decision Dashboard -- Where to buy:
+      https://public.tableau.com/app/profile/yichen.zuo/viz/InvestoersDecisionDashBoard--WheretoBuy/Dashboard1?publish=yes
