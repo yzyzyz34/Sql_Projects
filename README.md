@@ -14,3 +14,7 @@ Tablaeu:
       
    AirBnb Investor Decision Dashboard -- Where to buy:
       https://public.tableau.com/app/profile/yichen.zuo/viz/InvestoersDecisionDashBoard--WheretoBuy/Dashboard1?publish=yes
+      
+   AirBnb Investor Decision Dashboard -- Method of Operation:
+      https://public.tableau.com/app/profile/yichen.zuo/viz/InvestorsDecisionDashboard--MethodofOperation/Dashboard1?publish=yes
+      
